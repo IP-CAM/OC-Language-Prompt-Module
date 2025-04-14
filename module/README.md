@@ -3,14 +3,16 @@
 ## Description
 **Language Prompt** is an OpenCart module that displays a popup window prompting users to select a language on their first visit.
 
-Compatible with OpenCart 2.3.x (PHP 5.x) and 3.x-4.x (PHP ≥ 7.x.).
+Compatible with OpenCart 2.3.x (PHP 5.6) and 3.x/4.x (PHP ≥ 7.x).
+
+Note: The source code is encrypted. For purchase and licensing information, see the OpenCart Marketplace link in the **Download** section.
 
 ## Features
 * A popup window that prompts customers to select the interface language on their first visit to the store.
 * The ability to configure the validity period of the language selection using cookies.
 * An option to set the language of the popup itself.
 * Customizable popup styling in the module settings.
-* Does not modify files thanks to the OC Events System.
+* No core file modifications.
 
 ## Restrictions
 The module does not work and is not supported for stores located in the following domains: `.ru`,`.рф`,`.рус`,`.by`,`.бел`,`.su`.
